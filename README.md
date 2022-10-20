@@ -9,4 +9,4 @@ https://next.canvanizer.com/canvas/rdJNBawSbwNsG
 ## Link do Vídeo
 
 ## Link para a Fonte de Dados
-https://dados.turismo.gov.br/dataset/agencia-de-turismo/resource/89525f52-9b7c-44e3-893b-ed20d9e7d4c8?inner_span=True
+https://dados.turismo.gov.br
